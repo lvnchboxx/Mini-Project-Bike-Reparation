@@ -26,7 +26,7 @@ This project implements:
 - Firebase data storage
 - Notifications
 - Smartphone resource usage: GPS location
-- Demo video submission
+
 
 ## App Description
 
