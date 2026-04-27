@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366529520305",
+    "project_id": "nyobain-firebase-8996e",
+    "storage_bucket": "nyobain-firebase-8996e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366529520305:android:a7757abdfe76615325f890",
+        "android_client_info": {
+          "package_name": "com.example.bike_repair_mini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5aDtdRnhiRDe3HiuRLun3mW8VZtVfPjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366529520305:android:75207dfe1d1debf725f890",
+        "android_client_info": {
+          "package_name": "com.example.nyobain_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5aDtdRnhiRDe3HiuRLun3mW8VZtVfPjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
